@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/dj-reactjs/static/js/main.afc1f29f.chunk.js",
+    "main.js.map": "/dj-reactjs/static/js/main.afc1f29f.chunk.js.map",
+    "runtime-main.js": "/dj-reactjs/static/js/runtime-main.5ee6b842.js",
+    "runtime-main.js.map": "/dj-reactjs/static/js/runtime-main.5ee6b842.js.map",
+    "static/js/2.3f05d181.chunk.js": "/dj-reactjs/static/js/2.3f05d181.chunk.js",
+    "static/js/2.3f05d181.chunk.js.map": "/dj-reactjs/static/js/2.3f05d181.chunk.js.map",
+    "index.html": "/dj-reactjs/index.html",
+    "static/js/2.3f05d181.chunk.js.LICENSE.txt": "/dj-reactjs/static/js/2.3f05d181.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ee6b842.js",
+    "static/js/2.3f05d181.chunk.js",
+    "static/js/main.afc1f29f.chunk.js"
+  ]
+}
